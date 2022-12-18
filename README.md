@@ -5,7 +5,7 @@
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science and Web development.
 - 🤓 In my free time, I like to solve DSA challenges, participate in online data science competitions, read books and watch documentaries.
 
-#### Reach Me on :
+#### Connect with me on :
 
 <a href="https://www.linkedin.com/in/s-kishore">
     <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
