@@ -1,4 +1,4 @@
-## Hello World!!! I am Kishore Sampath
+## Hello World!!! I'm Kishore Sampath 👋
 
 - 🧑🏽‍💻 I'm currently working as a full-stack developer and lead a diverse team of data scientists and software engineers to build data-driven software applications to solve real-world problems.
 - 🌱 I’m currently learning NLP, MLOps and Explainable AI.
