@@ -7,10 +7,6 @@
 
 #### Reach Me on :
 
-<a href="mailto:skishore2602.dev@gmail.com">
-    <img style="margin-right: 5px" align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address">
-</a>
-
 <a href="https://www.linkedin.com/in/s-kishore">
     <img style="margin-right: 5px" align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
