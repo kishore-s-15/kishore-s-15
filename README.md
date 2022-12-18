@@ -22,3 +22,7 @@
 <a href="https://stackoverflow.com/users/14308939/kishore-sampath">
     <img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow">
 </a>
+
+<a href="https://github.com/kishore-s-15?tab=followers">
+    <img align="left" src="https://img.shields.io/github/followers/kishore-s-15.svg?style=for-the-badge&logo=github&label=Follow&maxAge=2592000)" alt="Github">
+</a>
