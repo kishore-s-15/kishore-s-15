@@ -1,6 +1,6 @@
 ## Hello World!!! I'm Kishore Sampath 👋
 
-- 🧑🏽‍💻 I'm currently working as a full-stack developer and lead a diverse team of data scientists and software engineers to build data-driven software applications to solve real-world problems.
+- 🧑🏽‍💻 I'm currently working as a full-stack developer and leading a diverse team of data scientists & software engineers to build data-driven software applications to solve real-world problems.
 - 🌱 I’m currently learning NLP, MLOps and Explainable AI.
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science and Web development.
 - 🤓 In my free time, I like to solve DSA challenges, participate in online data science competitions, read books and watch documentaries.
