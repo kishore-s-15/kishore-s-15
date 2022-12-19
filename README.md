@@ -8,7 +8,7 @@
 ### Technical Skills:
 
 <details>
-<summary>This is a non-exhaustive list of my technical skills and tools I use to build data-driven applications.</summary>
+<summary>A non-exhaustive list of my technical skills & the tools I use to build data-driven applications.</summary>
 <p>
   <h4>Programming Languages:</h4>
   <code>
