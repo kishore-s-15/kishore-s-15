@@ -1,13 +1,13 @@
-# Hello World!!! I'm Kishore Sampath 👋
+## Hello World!!! I'm Kishore Sampath 👋
 
 - 🧑🏽‍💻 I'm currently working as a full-stack developer and leading a diverse team of data scientists & software engineers to build data-driven software applications to solve real-world problems.
 - 🌱 I’m currently learning NLP, MLOps and Explainable AI.
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science and Web development.
 - 🤓 In my free time, I like to solve DSA challenges, participate in online data science competitions, read books and watch documentaries.
 
-## Technical Skills:
+### Technical Skills:
 
-### Programming Languages:
+#### Programming Languages:
 
 <code>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </code>
 
-### Databases:
+#### Databases:
 
 <code>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -29,9 +29,20 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
 </code>
 
-### Libraries & Frameworks:
+#### Tools & Technologies:
 
-#### 1. Machine Learning & Data Science
+<code>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white" alt="Celery">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+</code>
+
+#### Libraries & Frameworks:
+
+##### 1. Machine Learning & Data Science
 
 <code>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
@@ -43,7 +54,7 @@
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
 </code>
 
-#### 2. Web Development
+##### 2. Web Development
 
 <code>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
@@ -54,18 +65,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </code>
 
-### Tools & Technologies:
-
-<code>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white" alt="Celery">
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
-</code>
-
-### Connect with me on :
+#### Connect with me on :
 
 <code>
   <a href="mailto:skishore2602.dev@gmail.com">
