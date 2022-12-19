@@ -25,8 +25,6 @@
 
 </div>
 
-<br></br>
-
 <div>
 <h4>Databases:</h4>
 
@@ -43,8 +41,6 @@
 <img align="left" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
 
 </div>
-
-<br></br>
 
 <div>
 <h4>Tools & Technologies:</h4>
