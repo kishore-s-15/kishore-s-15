@@ -2,7 +2,7 @@
 
 - 🧑🏽‍💻 I'm currently working as a Full-stack developer and leading a diverse team of data scientists & software engineers to build data-driven software applications to solve real-world problems.
 - 🔬 My Research areas of interest are about Building Scalable ML Systems, MLOps, Explainable & Responsible AI.
-- 💻 I've started contributing to open-source libraries from last year. I've contributed to the [Deepchecks](https://github.com/deepchecks/deepchecks/pulls?q=is%3Apr+is%3Aclosed+author%3Akishore-s-15) and [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+is%3Aclosed+author%3Akishore-s-15) libraries.
+- 💻 I've started contributing to open-source libraries from last year. So far, I've contributed to the [Deepchecks](https://github.com/deepchecks/deepchecks/pulls?q=is%3Apr+is%3Aclosed+author%3Akishore-s-15) and [Transformers](https://github.com/huggingface/transformers/pulls?q=is%3Apr+is%3Aclosed+author%3Akishore-s-15) libraries.
 - 💬 Ask me about Machine Learning, Deep Learning, Data Science and Web development.
 - 🤓 In my free time, I like to solve DSA challenges, participate in online data science competitions, read books and watch documentaries.
 
