@@ -83,6 +83,6 @@
     <img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode">
 </a>
 
-<a href="https://www.hackerrank.com/skishore2602">
+<!-- <a href="https://www.hackerrank.com/skishore2602">
     <img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-</a>
+</a> -->
